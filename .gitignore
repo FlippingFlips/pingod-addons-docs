@@ -475,3 +475,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/docs/themes/hugo-theme-relearn/.github
+/docs/themes/hugo-theme-relearn/exampleSite

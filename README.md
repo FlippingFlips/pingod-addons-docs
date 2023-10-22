@@ -4,7 +4,8 @@ Godot 4.1.1 docs, guides
 
 TODO: make the workflow download the addons repo to build doxygen docs from. usually it builds from root directory on the solution.
 
----
+Use -- `hugo server -w -s docs` to view locally
+
 ## Live Docs
 
 🌎 [pingod getting started](https://flippingflips.github.io/pingod-addons-docs/getting-started/) - Getting Started
@@ -31,7 +32,7 @@ TODO: make the workflow download the addons repo to build doxygen docs from. usu
 ---
 ## Run docs local
 
-From the repository directory run the docs folder with [Hugo](https://gohugo.io/). `hugo server -w -s docs`
+From the repository directory run the docs folder with [Hugo](https://gohugo.io/).
 
 ```
 Environment: "development"
