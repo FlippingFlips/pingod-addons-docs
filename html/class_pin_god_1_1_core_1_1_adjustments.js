@@ -1,0 +1,28 @@
+var class_pin_god_1_1_core_1_1_adjustments =
+[
+    [ "BallSaveTime", "class_pin_god_1_1_core_1_1_adjustments.html#a314eed6874eb5fd724c0e24968aaa217", null ],
+    [ "BallsPerGame", "class_pin_god_1_1_core_1_1_adjustments.html#a801dca80a1cc82a6f26abf94a23a4831", null ],
+    [ "Display", "class_pin_god_1_1_core_1_1_adjustments.html#a1f7479010e0c19e1d2cfb1b0c71a96e1", null ],
+    [ "Language", "class_pin_god_1_1_core_1_1_adjustments.html#a221a58eb5c763d853a98f31196910565", null ],
+    [ "LogLevel", "class_pin_god_1_1_core_1_1_adjustments.html#a9c41885d67c20ddfd2f5903cca3b0260", null ],
+    [ "MachineStatesRead", "class_pin_god_1_1_core_1_1_adjustments.html#a1ab22a7a9ac2d40f53e8fff436a7eda4", null ],
+    [ "MachineStatesWrite", "class_pin_god_1_1_core_1_1_adjustments.html#a6d8c5edae7c3d01d9cb804b68bf1b28b", null ],
+    [ "MachineStatesWriteDelay", "class_pin_god_1_1_core_1_1_adjustments.html#a3a5bf440734af9409cb4ef2ff042938b", null ],
+    [ "MasterVolume", "class_pin_god_1_1_core_1_1_adjustments.html#a2f6ea16aa315798c532c1d8eea406a16", null ],
+    [ "MatchPercent", "class_pin_god_1_1_core_1_1_adjustments.html#a49e645425b1d67a14c6b003512f24ad6", null ],
+    [ "MaxExtraBalls", "class_pin_god_1_1_core_1_1_adjustments.html#a32aff3b4fa378b7ce72ddb507972bfb6", null ],
+    [ "MaxExtraBallsBallInPlay", "class_pin_god_1_1_core_1_1_adjustments.html#a0257fa33c89bd42beaa27ff105ece436", null ],
+    [ "MaxHiScoresCount", "class_pin_god_1_1_core_1_1_adjustments.html#a30df80cf458c89b4ed417edb5140c6df", null ],
+    [ "MusicEnabled", "class_pin_god_1_1_core_1_1_adjustments.html#a3d2e632b209f80b06dd5ce924e97532c", null ],
+    [ "MusicVolume", "class_pin_god_1_1_core_1_1_adjustments.html#a475befa64b5362d6c99afc347d039676", null ],
+    [ "ReplayBoost", "class_pin_god_1_1_core_1_1_adjustments.html#af3e7850304d5cddf7e8e245599c2322e", null ],
+    [ "ReplayLevels", "class_pin_god_1_1_core_1_1_adjustments.html#a7cc05d6dc05e175ecf15d462e04b6f7e", null ],
+    [ "ReplayPercent", "class_pin_god_1_1_core_1_1_adjustments.html#aa78af256df71606bc8059b6bbb4a0449", null ],
+    [ "ReplayStart", "class_pin_god_1_1_core_1_1_adjustments.html#a6e17509376b2b0199d189708a16e091b", null ],
+    [ "SfxEnabled", "class_pin_god_1_1_core_1_1_adjustments.html#a5b2d7dd27d4890a099881751c038765f", null ],
+    [ "SfxVolume", "class_pin_god_1_1_core_1_1_adjustments.html#a9f7a4fe49367011dcacf0a8cb017c480", null ],
+    [ "TiltWarnings", "class_pin_god_1_1_core_1_1_adjustments.html#a27f5e8d2649d2fafb08fa2112644fa84", null ],
+    [ "VoiceEnabled", "class_pin_god_1_1_core_1_1_adjustments.html#a81eacb9e421965f151bbb2404074c4a2", null ],
+    [ "VoiceVolume", "class_pin_god_1_1_core_1_1_adjustments.html#a9bf51c3da0a738708394db3b94dfac8f", null ],
+    [ "VpCommandSwitchId", "class_pin_god_1_1_core_1_1_adjustments.html#aeadc97aaafffdd79d8cffbaeb5a45c47", null ]
+];
