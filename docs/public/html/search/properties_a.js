@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['language_0',['Language',['../class_pin_god_1_1_core_1_1_adjustments.html#a221a58eb5c763d853a98f31196910565',1,'PinGod.Core.Adjustments.Language()'],['../class_pin_god_1_1_core_1_1_service_1_1_adjustments_node.html#aa6506bf258884368189e17a1d66787ed',1,'PinGod.Core.Service.AdjustmentsNode.Language()']]],
+  ['loglevel_1',['LogLevel',['../interface_pin_god_1_1_core_1_1_i_pin_god_logger.html#a5ed12de0d12c451635a42e4a4bd7549b',1,'PinGod.Core.IPinGodLogger.LogLevel()'],['../interface_pin_god_1_1_core_1_1_i_pin_god_game.html#a55e0e30f418ba01f9336db2217e9f54a',1,'PinGod.Core.IPinGodGame.LogLevel()'],['../class_pin_god_1_1_core_1_1_adjustments.html#a9c41885d67c20ddfd2f5903cca3b0260',1,'PinGod.Core.Adjustments.LogLevel()'],['../class_pin_god_1_1_core_1_1_service_1_1_adjustments_node.html#acc27c1d2ff37cbd025dc76335ec9ddff',1,'PinGod.Core.Service.AdjustmentsNode.LogLevel()'],['../class_pin_god_1_1_game_1_1_pin_god_game.html#a0e4338b581e6571fb59219a68e0cfc5b',1,'PinGod.Game.PinGodGame.LogLevel()']]],
+  ['lowdpi_2',['LowDpi',['../class_pin_god_1_1_base_1_1_display_settings.html#a76a1997b4a0f6e1cd4ddab3216939071',1,'PinGod.Base.DisplaySettings.LowDpi()'],['../class_display_settings.html#a0b0a6d91b42504580cefb9a7067dba8a',1,'DisplaySettings.LowDpi()']]]
+];
