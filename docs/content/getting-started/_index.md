@@ -21,5 +21,9 @@ The following guides go through installing and running the `Demo-Pingod.tscn` sc
 
 [Build / Run Game](./demo-build-run)
 
+[Game logs](./logging)
+
+[Simulator Visual Pinball](./simulator-visual-pinball)
+
 
 
