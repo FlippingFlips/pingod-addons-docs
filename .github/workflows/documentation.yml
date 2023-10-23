@@ -1,5 +1,6 @@
+# This builds the main `./docs` with hugo, clones the addons and builds class documentation for pingod-addons
+# Publishes to github pages
 name: GitHub Pages (dev)
-
 on:
   push:
     branches: [dev] # Set a branch to deploy
