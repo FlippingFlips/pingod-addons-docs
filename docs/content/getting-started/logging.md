@@ -5,36 +5,17 @@ draft: false
 weight: 25
 ---
 
-In the appdata directory under the game name. `%AppData%\Godot\app_userdata\BasicGameGodot\Logs`.
+In the appdata directory under the game name. `%AppData%\Godot\app_userdata\PinGod-AddOns\Logs`.
 
-Rolling logs, with the `godot.log` is always being the latest.
+They are built in Godot rolling logs with the `godot.log` always being the latest.
 
 ---
 ## Log location
----
-
-In the appdata directory under the game name, logs `.log` are created. Use the `open_app_data.bat` to open directory to open the data directory.
-
+*Image shows the users game save directory open in Sublime Text.*
 ![image](../../images/basicgame/basicgame-userdata-sublime.jpg)
 
-The image above has the users game directory open with Sublime Text.
-
 ---
-SublimeText - Game Data Folder
----
-
-The steps to add this directory and save project:
-
-1. Find the games appdata folder with bat file `_godot_appdata_dir.bat`
-2. Copy the path and use `Open Folder` in Sublime and open the user path
-3. Save this as a project in sublime then reopen it later for a quicker way to view logs, look at your settings etc for this game.
-
-You could do similar with a Visual Studio code workspace or something else, this is just one example of getting back to viewing this directory.
-
-
----
-Log example:
----
+#### Log example:
 
 ```
 Godot Engine v3.4.2.stable.mono.official.45eaa2daf - https://godotengine.org

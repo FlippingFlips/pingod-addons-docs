@@ -11,15 +11,15 @@ images:
 - images/pexels-photo-196666.jpeg
 ---
 
-The following guides aim to have you up and running the `BasicGameGodot` window from the [pingod-basicgame](https://github.com/FlippingFlips/pingod-basicgame).
+The following guides go through installing and running the `Demo-Pingod.tscn` scene in the project from the main repository.
 
 [Install, setup Godot](./installation)
 
-[Configure Godot](./configuration)
+[Clone / Download Repo](./clone-download/)
 
-[Basic Game Setup](./basicgame-setup/)
+[Load Project in Godot](./demo-project)
 
-[Basic Game Visual Pinball](./basicgame-game-vp)
+[Build / Run Game](./demo-build-run)
 
 
 

@@ -1,13 +1,10 @@
 # pingod-addons
-
 Godot 4.1.1 docs, guides
-
-TODO: make the workflow download the addons repo to build doxygen docs from. usually it builds from root directory on the solution.
 
 Use -- `hugo server -w -s docs` to view locally
 
+---
 ## Live Docs
-
 🌎 [pingod getting started](https://flippingflips.github.io/pingod-addons-docs/getting-started/) - Getting Started
 
 🌎 [pingod-addons](https://FlippingFlips.github.io/pingod-addons-docs) - Home
@@ -17,6 +14,7 @@ Use -- `hugo server -w -s docs` to view locally
 
 🌎 [pingod-addons - class list](https://flippingflips.github.io/pingod-addons-docs/html/annotated.html) - Online documentation built from this repository with DoxyGen
 
+---
 #### Doxygen
 
 `doxygen Doxyfile`. This generates documentation from the files in the `addons` directory
@@ -42,11 +40,7 @@ Web Server is available at http://localhost:59492/pingod-addons/ (bind address 1
 Press Ctrl+C to stop
 ```
 
-
 `choco install hugo-extended` [Chocolatey](https://chocolatey.org/):
-
-
-
 
 ## Building docs offline
 

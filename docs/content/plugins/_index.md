@@ -1,61 +1,27 @@
 ---
-title: "Plugins - Autoload"
+title: "PinGod-Addons"
 date: 2022-12-26T15:26:15Z
 draft: false
 weight: 10
 ---
 
-Most PinGod Godot plugins are included in the `addons/AutoLoad` directory.
-
-These plug-ins (addons) are used to enable certain features or disable them completely for when you want to develop scenes on their own for instance.
-
-These should work in any order you enable them. When you enable one then this is added to the Autoload in Project Settings.
-
-|Plugin|Description|
-|---|---|
-|WindowActions|Helper to use keys with window, switches, should always be enabled to close with ESC and F2 to move window|
-|Adjustments|Global adjustments so your scene scripts can use global variables or settings|
-|Resources|async loading of scenes, stores packed scenes and loads packs etc|
-|Machine|Plugin to hold all the machine items and do other things like switch handling|
-|MemoryMap|Windows memory mapped file for sharing states with a simulator or other applications|
-|AudioManager|Load audio assets and play|
-|PinGodGame|Main game framework|
-
-![image](../images/plugins.jpg)
+Godot allows importing of `addons` into projects. Other addons can usually be found in Godot's `AssetLib` and installed through that. `addons` can also be imported to from a zip file or just copied into a project.
 
 ---
-## Overriding the autoload scenes
----
+## pingod addons list
 
-The autoload folder in the game directory is used when you want to override the AutoLoad scenes. 
+| Name | Autoload *  | Description
+| --- | --- | --- |---|
+| [pingod-core](core)  | no | Base classes for the modules 
+| [pingod-assets](assets)  | no | Assets used by the modules. Localization for your game
+| [pingod-controls](controls)  | no | Godot addin controls
+| pingod-misc | no | Others scenes and layers | [link](./addons/pingod-misc) 
+| [pingod-modes](modes) | no | Scenes and game modes, overlays
+| [pingod-audio](audiomanager)  | yes | audio manager / player
+| [pingod-game](pingodgame)  | yes | PinGodGame, Game and Main scenes. Demo uses the Main scene, which also uses the game and modes module
+| [pingod-machine](machine) | yes | Machine manager for pinball machine items, events
+| [pingod-memorymap-win](memorymap) | yes |Sharing machine states over memory mapping (**windows only**)
+| [pingod-resources](resources) | yes | Resource loader, pre load scenes and `pck` files
+| [pingod-windows](windows) | yes | Input handling and switch windows + custom windows
 
-If you wanted edit and add more switches to the plugin then you would want to have your own copy of `Machine.tscn`.
-
----
-
-In Godot you can duplicate the default `Machine.tscn` like so:
-
-1. In the `FileSystem` pane filter files. Filter it for `machine`
-2. The one we want is `Machine.tscn`. There will be just a few results.
-3. Right click Duplicate and suffix it with 2 or anything like `Machine2.tscn`
-
-![image](../images/godot4-newproject/filter-and-duplicate.jpg)
-
-4. You will see it in the FileSystem and you can right click `MoveTo`, move to the `res://autoload` folder
-5. With the FileSystem still open, on the moved file, `F2` and rename back to `Machine.tscn`
-
-![image](../images/godot4-newproject/machine-duplicated.jpg)
-
-6. Now you can open the `res://Machine.tscn` and change some settings, add items.
-
-7. Disable, then Enable the plugin in ProjectSettings/Autoload for the plugin to pick up your AutoLoad scene
-
----
-## Extra info
----
-
-To find what scene the AutoLoad is using by default go to `Project Settings > AutoLoad`, in the list is the path to the scene.
-
-You can also click to take you there. Note: You will need the plugins activated to see them in that pane.
-
----
+_* Autoload_ = plugin has an Autoload singleton. You can access these singletons from any script from the root. The main scenes can be overrided by duplicating the main scene for the Autoload and place into `res://autoload`, eg: `res://autoload/Resources.tscn`.
