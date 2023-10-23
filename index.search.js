@@ -125,6 +125,8 @@ Install, setup Godot
 Clone / Download Repo
 Load Project in Godot
 Build / Run Game
+Game logs
+Simulator Visual Pinball
 `,description:"Text about this post",tags:null,title:"Getting Started",uri:"/pingod-addons-docs/getting-started/index.html"},{content:`The following are the default switches in the autoload\\Machine.tscn file.
 When created in the Godot interface, they are saved in this scene file. You can add your switches here from text editor which is faster.
 _switches = { "coin1": 0, "coin2": 1, "coin3": 2, "coin4": 3, "exit": 4, "down": 5, "up": 6, "enter": 7, "coinDoor": 8, "flipperLwL": 9, "flipperLwR": 11, "flipperUpL": 13, "flipperUpR": 15, "slamTilt": 16, "tilt": 17, "ballShooter": 18, "start": 19, "trough0": 21, "trough1": 22, "trough2": 23, "trough3": 24, "plungerLane": 25, "inlaneL": 26, "inlaneR": 27, "outlaneL": 28, "outlaneR": 29, "slingL": 30, "slingR": 31, "bumper0": 32, "bumper1": 33, "bumper2": 34, "mballSaucer": 35 } `,description:"",tags:null,title:"Adding Switches",uri:"/pingod-addons-docs/plugins/machine/adding-switches/index.html"},{content:`Bonus scene used in BasicGame Game.tscn Modes.
@@ -329,7 +331,14 @@ P-ROC Mode Start / Stop When the Mode is started then this scene is retrieved fr
 When the Mode is stopped then the scene instance we created is freed and removed.
 P-ROC Switch Handlers None
 🔗 Base ScoreMode Scene
-`,description:"",tags:null,title:"Mode - ScoreDisplayProcMode",uri:"/pingod-addons-docs/todo/pingodnetproc/scoredisplayprocmode/index.html"},{content:`Game Window Switches Switches need to be added to _gameWindowSwitches in PinGodGame.tscn.
+`,description:"",tags:null,title:"Mode - ScoreDisplayProcMode",uri:"/pingod-addons-docs/todo/pingodnetproc/scoredisplayprocmode/index.html"},{content:`The pingod-addons/simulators directory contains an example table and script which is wired to work with the demo project.godot.
+Setup A few steps are needed to make this possible so that Visual Pinball can launch the game and get machine changes from the game.
+See How To install and Run
+Running with VP The game can be launched with Visual Pinball after the setup is completed for the PinGod.VP.Controller.
+If you launch from the repository as is then the project will be loaded relative ../../ from the script.
+Note: To recieve changes from game make sure the pingod-memorymap-win plugin is enabled and MemoryMapping is enabled
+Visual Pinball Player Add credits and start the game to pulse a ball from the Trough.
+`,description:"",tags:null,title:"Run with Visual Pinball",uri:"/pingod-addons-docs/getting-started/simulator-visual-pinball/index.html"},{content:`Game Window Switches Switches need to be added to _gameWindowSwitches in PinGodGame.tscn.
 Keys action 5 Credits Q,W,E,R Trough Switches 1-4 1 Start Game T Plunger Lane Y inlane_l Simulating with keypress actions Add credits (5), hold all the trough switches down (QWER) then push start (1).
 Add some points with Y = switch 22 inlane_l
 Simulate ball drain by activating all the trough switches.
