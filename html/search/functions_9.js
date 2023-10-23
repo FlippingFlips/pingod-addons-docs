@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['kick_928',['Kick',['../classPinGod_1_1Core_1_1BallStacks_1_1Saucer.html#a9c4782894635acb9fa5fe696e4a0347e',1,'PinGod::Core::BallStacks::Saucer']]]
+  ['kick_952',['Kick',['../classSaucer.html#aa6ad1fff77f61f542397e317a115e12d',1,'Saucer']]]
 ];

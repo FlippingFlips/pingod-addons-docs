@@ -1,6 +1,5 @@
 var namespacePinGod =
 [
-    [ "Events", "md_pingod_addons_addons_autoload_Machine_README.html#autotoc_md10", null ],
     [ "AutoLoad", "namespacePinGod_1_1AutoLoad.html", "namespacePinGod_1_1AutoLoad" ],
     [ "Base", "namespacePinGod_1_1Base.html", "namespacePinGod_1_1Base" ],
     [ "Core", "namespacePinGod_1_1Core.html", "namespacePinGod_1_1Core" ],

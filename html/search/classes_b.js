@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['resources_709',['Resources',['../classPinGod_1_1Core_1_1Service_1_1Resources.html',1,'PinGod::Core::Service']]]
+  ['recordingnode_726',['RecordingNode',['../classPinGodAddOns_1_1addons_1_1pingod__machine_1_1RecordingNode.html',1,'PinGodAddOns::addons::pingod_machine']]],
+  ['resources_727',['Resources',['../classResources.html',1,'']]]
 ];

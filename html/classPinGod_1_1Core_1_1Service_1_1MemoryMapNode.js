@@ -17,5 +17,6 @@ var classPinGod_1_1Core_1_1Service_1_1MemoryMapNode =
     [ "MutexName", "classPinGod_1_1Core_1_1Service_1_1MemoryMapNode.html#a059c974fabcacfdd49c77fc2e701b5d2", null ],
     [ "ReadDelay", "classPinGod_1_1Core_1_1Service_1_1MemoryMapNode.html#a32ec8905a63c6b5b2de3583fcc130b73", null ],
     [ "SwitchTotal", "classPinGod_1_1Core_1_1Service_1_1MemoryMapNode.html#a88aa4fa1a8b9929bfcd871f6ed54fc41", null ],
-    [ "WriteDelay", "classPinGod_1_1Core_1_1Service_1_1MemoryMapNode.html#acdf1dab6d0dc46065d02b6af60f78fa2", null ]
+    [ "WriteDelay", "classPinGod_1_1Core_1_1Service_1_1MemoryMapNode.html#acdf1dab6d0dc46065d02b6af60f78fa2", null ],
+    [ "_vpSwitchCommand", "classPinGod_1_1Core_1_1Service_1_1MemoryMapNode.html#a4c95bab66e28ba551c7062744498e99d", null ]
 ];

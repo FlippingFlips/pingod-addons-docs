@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['pingod_2dballsave_1338',['pingod-ballsave',['../md_pingod_addons_addons_modes_ballsave_README.html',1,'']]],
-  ['pingod_2dgame_1339',['pingod-game',['../md_pingod_addons_addons_autoload_PinGodGame_README.html',1,'']]],
-  ['pingod_2dmachine_1340',['pingod-machine',['../md_pingod_addons_addons_autoload_Machine_README.html',1,'']]],
-  ['pingod_2dplunger_5flane_1341',['pingod-plunger_lane',['../md_pingod_addons_addons_pingod_core_PlungerLane_README.html',1,'']]],
-  ['pingod_2dtrough_1342',['pingod-trough',['../md_pingod_addons_addons_pingod_core_BallStacks_README.html',1,'']]]
+  ['memorymap_0',['MemoryMap',['../md_addons_autoload__memory_map__r_e_a_d_m_e.html',1,'']]],
+  ['modes_20_2d_20p_2droc_1',['Modes - P-ROC',['../md_examples_pingod_netproc_pdb_modes__r_e_a_d_m_e.html',1,'']]]
 ];

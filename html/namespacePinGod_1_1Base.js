@@ -2,9 +2,6 @@ var namespacePinGod_1_1Base =
 [
     [ "BallSearchOptions", "classPinGod_1_1Base_1_1BallSearchOptions.html", "classPinGod_1_1Base_1_1BallSearchOptions" ],
     [ "DisplaySettings", "classPinGod_1_1Base_1_1DisplaySettings.html", "classPinGod_1_1Base_1_1DisplaySettings" ],
-    [ "HighScore", "classPinGod_1_1Base_1_1HighScore.html", "classPinGod_1_1Base_1_1HighScore" ],
-    [ "IPinGodPlayer", "interfacePinGod_1_1Base_1_1IPinGodPlayer.html", "interfacePinGod_1_1Base_1_1IPinGodPlayer" ],
-    [ "PinGodPlayer", "classPinGod_1_1Base_1_1PinGodPlayer.html", "classPinGod_1_1Base_1_1PinGodPlayer" ],
     [ "PinStateObject", "classPinGod_1_1Base_1_1PinStateObject.html", "classPinGod_1_1Base_1_1PinStateObject" ],
     [ "PinStates", "classPinGod_1_1Base_1_1PinStates.html", "classPinGod_1_1Base_1_1PinStates" ],
     [ "PlaybackEvent", "classPinGod_1_1Base_1_1PlaybackEvent.html", "classPinGod_1_1Base_1_1PlaybackEvent" ],

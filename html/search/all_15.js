@@ -1,13 +1,18 @@
 var searchData=
 [
-  ['updatecredits_614',['UpdateCredits',['../classPinGod_1_1EditorPlugins_1_1CreditsLabel.html#a0051350083c8f264893148ff2d4e6900',1,'PinGod::EditorPlugins::CreditsLabel']]],
-  ['updatehighscores_615',['UpdateHighScores',['../classPinGod_1_1Modes_1_1Attract.html#a8c21a9a26706ee1618aef1b40cfc2711',1,'PinGod::Modes::Attract']]],
-  ['updatelamps_616',['UpdateLamps',['../classPinGod_1_1EditorPlugins_1_1PinballLanesNode.html#a9da77d644478714c888c5a8a6689dae3',1,'PinGod.EditorPlugins.PinballLanesNode.UpdateLamps()'],['../classPinGod_1_1EditorPlugins_1_1TargetsBank.html#a2417c60e366bfc5d4aa9f591e6e5ad9c',1,'PinGod.EditorPlugins.TargetsBank.UpdateLamps()'],['../interfacePinGod_1_1Core_1_1IPinGodGame.html#af31cd7d1f7ad8bfc9e57e89ce37596ae',1,'PinGod.Core.IPinGodGame.UpdateLamps()'],['../classPinGod_1_1Core_1_1Service_1_1PinGodGameMode.html#ac1d0717d62ea9aec743ec9b5ecc0e6e7',1,'PinGod.Core.Service.PinGodGameMode.UpdateLamps()'],['../classPinGod_1_1Game_1_1PinGodGame.html#acf275c8f1f0a146b38a7cc743038d5ce',1,'PinGod.Game.PinGodGame.UpdateLamps()']]],
-  ['updatemainscore_617',['UpdateMainScore',['../classPinGod_1_1Modes_1_1ScoreMode.html#a95fa5fc04403da835f36bfb4273265d1',1,'PinGod::Modes::ScoreMode']]],
-  ['updatename_618',['UpdateName',['../classPinGod_1_1Core_1_1addons_1_1ModeTimer_1_1ModeTimer.html#a6886e0284db0aa369f72abe161d775e9',1,'PinGod::Core::addons::ModeTimer::ModeTimer']]],
-  ['updateplayerballinfo_619',['UpdatePlayerBallInfo',['../classPinGod_1_1Modes_1_1ScoreMode.html#a525187d7dd5670cc2211efb0e1ef3c58',1,'PinGod::Modes::ScoreMode']]],
-  ['updateplayerscores_620',['UpdatePlayerScores',['../classPinGod_1_1Modes_1_1ScoreMode.html#a0f44f87a6e4f0cfed5c900b11c53c92f',1,'PinGod::Modes::ScoreMode']]],
-  ['updatescorestext_621',['UpdateScoresText',['../classPinGod_1_1Modes_1_1HighScores.html#a978373650ecc7e6127e8c0d045e788dc',1,'PinGod::Modes::HighScores']]],
-  ['updatetime_622',['UpdateTime',['../classPinGod_1_1Core_1_1addons_1_1ModeTimer_1_1ModeTimer.html#a98953061dbd7f7d7c88a0707a34a178e',1,'PinGod::Core::addons::ModeTimer::ModeTimer']]],
-  ['updatetitle_623',['UpdateTitle',['../classPinGod_1_1Core_1_1addons_1_1ModeTimer_1_1ModeTimer.html#a4be079fd44928119a137744a233bf278',1,'PinGod::Core::addons::ModeTimer::ModeTimer']]]
+  ['value_642',['Value',['../classPinGod_1_1Base_1_1SwitchEventArgs.html#a37fff9837a2484518b91d6a0d64b2d57',1,'PinGod::Base::SwitchEventArgs']]],
+  ['verbose_643',['Verbose',['../namespacePinGod_1_1Base.html#a4c965c23cbdb7db38eccc29c480434d2ad4a9fa383ab700c5bdd6f31cf7df0faf',1,'PinGod::Base']]],
+  ['videoplayerpinball_644',['VideoPlayerPinball',['../classPinGod_1_1Core_1_1addons_1_1Video_1_1VideoPlayerPinball.html',1,'PinGod::Core::addons::Video']]],
+  ['videoplayerpinball_2ecs_645',['VideoPlayerPinball.cs',['../VideoPlayerPinball_8cs.html',1,'']]],
+  ['viewaccessor_646',['viewAccessor',['../classPinGod_1_1Core_1_1Service_1_1MemoryMap.html#a07da16fc0b575c04e6f7a00225bd73f3',1,'PinGod::Core::Service::MemoryMap']]],
+  ['voice_647',['Voice',['../interfaceIAudioManager.html#a02b6d4e33f0bb83c7099676255368745',1,'IAudioManager.Voice()'],['../classAudioManager.html#afe2b8e611f0902a43a12ddf5e7433dfe',1,'AudioManager.Voice()']]],
+  ['voiceassets_648',['VoiceAssets',['../classAudioManager.html#a39e99b4195b1bad836cc08c00788b4e3',1,'AudioManager']]],
+  ['voiceenabled_649',['VoiceEnabled',['../classPinGod_1_1Core_1_1Adjustments.html#a81eacb9e421965f151bbb2404074c4a2',1,'PinGod.Core.Adjustments.VoiceEnabled()'],['../interfaceIAudioManager.html#a70e88881d348ec975c78438d7f1421c2',1,'IAudioManager.VoiceEnabled()'],['../classAudioManager.html#a2a5046955313b2893c0a31f346b66639',1,'AudioManager.VoiceEnabled()'],['../classPinGod_1_1Core_1_1Service_1_1AdjustmentsNode.html#a8db67170ac364f889de2e673a710c3b7',1,'PinGod.Core.Service.AdjustmentsNode.VoiceEnabled()']]],
+  ['voiceplayer_650',['VoicePlayer',['../classAudioManager.html#a44efe9206459c9bcf347edeea5f72bcf',1,'AudioManager.VoicePlayer()'],['../interfaceIAudioManager.html#abba031d3225ff7b826fa7cd950928537',1,'IAudioManager.VoicePlayer()']]],
+  ['voicevolume_651',['VoiceVolume',['../classPinGod_1_1Core_1_1Adjustments.html#a9bf51c3da0a738708394db3b94dfac8f',1,'PinGod.Core.Adjustments.VoiceVolume()'],['../classPinGod_1_1Core_1_1Service_1_1AdjustmentsNode.html#ae408b56e40ad2d7363a4f161ba19819d',1,'PinGod.Core.Service.AdjustmentsNode.VoiceVolume()']]],
+  ['vpcommandeventhandler_652',['VpCommandEventHandler',['../classPinGod_1_1Core_1_1Game_1_1PinGodBase.html#afec1ea5d716fb42de6cfe39f5ff5b66f',1,'PinGod::Core::Game::PinGodBase']]],
+  ['vpcommandswitch_653',['VpCommandSwitch',['../classPinGod_1_1Core_1_1Service_1_1MemoryMap.html#aa9abc63a9259058f6fe2fc7fff921740',1,'PinGod::Core::Service::MemoryMap']]],
+  ['vpcommandswitchid_654',['VpCommandSwitchId',['../classPinGod_1_1Core_1_1Adjustments.html#aeadc97aaafffdd79d8cffbaeb5a45c47',1,'PinGod.Core.Adjustments.VpCommandSwitchId()'],['../classPinGod_1_1Core_1_1Service_1_1AdjustmentsNode.html#ac382b77f4e0c00224133d71585f649b1',1,'PinGod.Core.Service.AdjustmentsNode.VpCommandSwitchId()']]],
+  ['vsync_655',['Vsync',['../classDisplaySettings.html#a47f8b9da3915532b7b89350c7e120c38',1,'DisplaySettings.Vsync()'],['../classPinGod_1_1Base_1_1DisplaySettings.html#a815597b2a9c77b04a62d86269b55f1ce',1,'PinGod.Base.DisplaySettings.Vsync()']]],
+  ['vsyncviacompositor_656',['VsyncViaCompositor',['../classDisplaySettings.html#a2b4bd7d51bd32c947bf72b288afd19ae',1,'DisplaySettings.VsyncViaCompositor()'],['../classPinGod_1_1Base_1_1DisplaySettings.html#a1bbf96f5e9787162ea0939d0f2b9f02e',1,'PinGod.Base.DisplaySettings.VsyncViaCompositor()']]]
 ];

@@ -1,18 +1,17 @@
 var searchData=
 [
-  ['value_624',['Value',['../classPinGod_1_1Base_1_1SwitchEventArgs.html#a37fff9837a2484518b91d6a0d64b2d57',1,'PinGod::Base::SwitchEventArgs']]],
-  ['verbose_625',['Verbose',['../namespacePinGod_1_1Base.html#a4c965c23cbdb7db38eccc29c480434d2ad4a9fa383ab700c5bdd6f31cf7df0faf',1,'PinGod::Base']]],
-  ['videoplayerpinball_626',['VideoPlayerPinball',['../classPinGod_1_1Core_1_1addons_1_1Video_1_1VideoPlayerPinball.html',1,'PinGod::Core::addons::Video']]],
-  ['videoplayerpinball_2ecs_627',['VideoPlayerPinball.cs',['../VideoPlayerPinball_8cs.html',1,'']]],
-  ['viewaccessor_628',['viewAccessor',['../classPinGod_1_1Core_1_1Service_1_1MemoryMap.html#a07da16fc0b575c04e6f7a00225bd73f3',1,'PinGod::Core::Service::MemoryMap']]],
-  ['voice_629',['Voice',['../classPinGod_1_1Core_1_1Service_1_1AudioManager.html#a3c97b0871616b14d4f53edef0ddc52c0',1,'PinGod.Core.Service.AudioManager.Voice()'],['../interfacePinGod_1_1Core_1_1Interface_1_1IAudioManager.html#a728b7eb8e206dc08d09ba360c45bc805',1,'PinGod.Core.Interface.IAudioManager.Voice()']]],
-  ['voiceassets_630',['VoiceAssets',['../classPinGod_1_1Core_1_1Service_1_1AudioManager.html#a25b8363544c679bc273ce4e8bfdfd099',1,'PinGod::Core::Service::AudioManager']]],
-  ['voiceenabled_631',['VoiceEnabled',['../interfacePinGod_1_1Core_1_1Interface_1_1IAudioManager.html#ab657317e6148ea991c8b85f6d966ead8',1,'PinGod.Core.Interface.IAudioManager.VoiceEnabled()'],['../classPinGod_1_1Core_1_1Service_1_1AudioManager.html#a355a825035ce4a36db4b2c0c7d139835',1,'PinGod.Core.Service.AudioManager.VoiceEnabled()'],['../classPinGod_1_1Core_1_1Service_1_1AdjustmentsNode.html#a8db67170ac364f889de2e673a710c3b7',1,'PinGod.Core.Service.AdjustmentsNode.VoiceEnabled()'],['../classPinGod_1_1Core_1_1Adjustments.html#a81eacb9e421965f151bbb2404074c4a2',1,'PinGod.Core.Adjustments.VoiceEnabled()']]],
-  ['voiceplayer_632',['VoicePlayer',['../interfacePinGod_1_1Core_1_1Interface_1_1IAudioManager.html#a4a67f5f40a4346b368f01ff34ccedc7e',1,'PinGod.Core.Interface.IAudioManager.VoicePlayer()'],['../classPinGod_1_1Core_1_1Service_1_1AudioManager.html#a97bd1f2a2b8a821d4a224d8d236ce335',1,'PinGod.Core.Service.AudioManager.VoicePlayer()']]],
-  ['voicevolume_633',['VoiceVolume',['../classPinGod_1_1Core_1_1Adjustments.html#a9bf51c3da0a738708394db3b94dfac8f',1,'PinGod.Core.Adjustments.VoiceVolume()'],['../classPinGod_1_1Core_1_1Service_1_1AdjustmentsNode.html#ae408b56e40ad2d7363a4f161ba19819d',1,'PinGod.Core.Service.AdjustmentsNode.VoiceVolume()']]],
-  ['vpcommandeventhandler_634',['VpCommandEventHandler',['../classPinGod_1_1Core_1_1Game_1_1PinGodBase.html#afec1ea5d716fb42de6cfe39f5ff5b66f',1,'PinGod::Core::Game::PinGodBase']]],
-  ['vpcommandswitch_635',['VpCommandSwitch',['../classPinGod_1_1Core_1_1Service_1_1MemoryMap.html#aa9abc63a9259058f6fe2fc7fff921740',1,'PinGod::Core::Service::MemoryMap']]],
-  ['vpcommandswitchid_636',['VpCommandSwitchId',['../classPinGod_1_1Core_1_1Adjustments.html#aeadc97aaafffdd79d8cffbaeb5a45c47',1,'PinGod.Core.Adjustments.VpCommandSwitchId()'],['../classPinGod_1_1Core_1_1Service_1_1AdjustmentsNode.html#ac382b77f4e0c00224133d71585f649b1',1,'PinGod.Core.Service.AdjustmentsNode.VpCommandSwitchId()']]],
-  ['vsync_637',['Vsync',['../classPinGod_1_1Base_1_1DisplaySettings.html#a815597b2a9c77b04a62d86269b55f1ce',1,'PinGod.Base.DisplaySettings.Vsync()'],['../classDisplaySettings.html#a47f8b9da3915532b7b89350c7e120c38',1,'DisplaySettings.Vsync()']]],
-  ['vsyncviacompositor_638',['VsyncViaCompositor',['../classPinGod_1_1Base_1_1DisplaySettings.html#a1bbf96f5e9787162ea0939d0f2b9f02e',1,'PinGod.Base.DisplaySettings.VsyncViaCompositor()'],['../classDisplaySettings.html#a2b4bd7d51bd32c947bf72b288afd19ae',1,'DisplaySettings.VsyncViaCompositor()']]]
+  ['warning_657',['Warning',['../namespacePinGod_1_1Base.html#a4c965c23cbdb7db38eccc29c480434d2a0eaadb4fcb48a0a0ed7bc9868be9fbaa',1,'PinGod.Base.Warning()'],['../interfaceIPinGodLogger.html#afb37b55bec540a1e6069bca990bb145d',1,'IPinGodLogger.Warning()']]],
+  ['west_658',['West',['../namespacePinGod_1_1Base.html#a249819ad44ab9aa6ab2fc94e3a482443abf495fc048d8d44b7f32536df5cf3930',1,'PinGod::Base']]],
+  ['width_659',['Width',['../classPinGod_1_1Base_1_1DisplaySettings.html#aadc152f088c73a535358e576837828aa',1,'PinGod.Base.DisplaySettings.Width()'],['../classDisplaySettings.html#aa2dfdfd24e4e7f2959aacb608579c4da',1,'DisplaySettings.Width()']]],
+  ['widthdefault_660',['WidthDefault',['../classDisplaySettings.html#a186cd27430ce9b16f1ce07adfed01bbe',1,'DisplaySettings.WidthDefault()'],['../classPinGod_1_1Base_1_1DisplaySettings.html#a30532143c60af5ab902e250e967089b2',1,'PinGod.Base.DisplaySettings.WidthDefault()']]],
+  ['windowactionsnode_661',['WindowActionsNode',['../classPinGod_1_1Core_1_1Service_1_1WindowActionsNode.html',1,'PinGod::Core::Service']]],
+  ['windowactionsnode_2ecs_662',['WindowActionsNode.cs',['../WindowActionsNode_8cs.html',1,'']]],
+  ['windowactionsplugin_2ecs_663',['WindowActionsPlugin.cs',['../WindowActionsPlugin_8cs.html',1,'']]],
+  ['windowpingod_664',['WindowPinGod',['../classPinGod_1_1EditorPlugins_1_1WindowPinGod.html',1,'PinGod::EditorPlugins']]],
+  ['windowpingod_2ecs_665',['WindowPinGod.cs',['../WindowPinGod_8cs.html',1,'']]],
+  ['workingdirectory_666',['WorkingDirectory',['../classResources.html#a9b53a2e64f55a849f0fc83fc17137460',1,'Resources']]],
+  ['writedelay_667',['WriteDelay',['../classPinGod_1_1Core_1_1Service_1_1MemoryMapNode.html#acdf1dab6d0dc46065d02b6af60f78fa2',1,'PinGod::Core::Service::MemoryMapNode']]],
+  ['writestates_668',['WriteStates',['../classPinGod_1_1Core_1_1Service_1_1MemoryMap.html#a9593eef8b1c5f8f6e4b5c2ff3d41dffa',1,'PinGod::Core::Service::MemoryMap']]],
+  ['writeswitchpulsetomemory_669',['WriteSwitchPulseToMemory',['../classPinGod_1_1Core_1_1Service_1_1MemoryMapNode.html#ae72761075a132a2ce449040e427f59fc',1,'PinGod::Core::Service::MemoryMapNode']]],
+  ['writeswitchtomemory_670',['WriteSwitchToMemory',['../classPinGod_1_1Core_1_1Service_1_1MemoryMapNode.html#add0f0650e967788cfd4cec68dd3b6463',1,'PinGod::Core::Service::MemoryMapNode']]]
 ];
